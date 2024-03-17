@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Mar 16 01:19:02 GMT 2024
+kafka-connect-storage-format-11.2.6.jar>confluent=
+kafka-connect-storage-format-11.2.6.pom>confluent=
